@@ -68,11 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 I would like to extend my gratitude to Citi for the opportunity to participate in the Technology Analyst Program. Special thanks to my mentors and team members for their invaluable support and guidance throughout my internship. This experience has significantly enhanced my understanding of software development in the financial sector and has provided me with practical skills applicable to my future career.
-
-
-### Notes:
-- **Customization:** Be sure to replace `anushdubey01` and `Citi-Loan-Management-System` in the clone command with your actual GitHub username and repository name.
-- **Detail Orientation:** This `README.md` provides a professional presentation of your work, making it easy for potential employers or collaborators to understand your contributions and the skills you've developed.
-- **Structure:** The organization of sections makes it easy to navigate and locate specific information.
-
-Feel free to modify any sections to better reflect your experience or preferences! Let me know if you need further adjustments.
